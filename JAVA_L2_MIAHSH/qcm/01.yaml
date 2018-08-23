@@ -1,0 +1,12 @@
+Question a choix multiple:
+  type: multiple
+  inputs:
+    - réponse a
+    False
+    a, C'est faux parceque ...
+    - réponse b
+    False
+    b, C'est faux parceque ...
+    - réponse c
+    True
+    c, C'est vrai parceque ...

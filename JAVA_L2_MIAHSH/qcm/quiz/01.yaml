@@ -1,0 +1,12 @@
+- title: Question a choix multiple
+  type: radio
+  inputs:
+    - label: réponse a
+      value: False
+      hint: a, C'est faux parceque ...
+    - label: réponse b
+      value: False
+      hint: b, C'est faux parceque ...
+    - label: réponse c
+      value: True
+      hint: c, C'est vrai parceque ...
