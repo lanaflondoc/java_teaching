@@ -1,7 +1,7 @@
 - title: Question a choix multiple 1
   type: radio
   inputs:
-    - label: réponse aréponse aréponse aréponse aréponse aréponse aréponse aréponse aréponse aréponse aréponse a
+    - label: réponse a
       value: False
       hint: a, C'est faux parceque ...
     - label: réponse b
