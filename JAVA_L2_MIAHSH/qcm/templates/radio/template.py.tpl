@@ -18,14 +18,16 @@ title{{script_id}}=wg.HTML(
 rb{{script_id}}=wg.RadioButtons(
     options={{ labels }},
     description='',
-    disabled=False
+    disabled=False,
+    layout=wg.Layout(width='90%')
 )
 
 text{{script_id}}=wg.Textarea(
     value='',
     placeholder='',
     description='String:',
-    disabled=True
+    disabled=True,
+    layout=wg.Layout(width='90%')
 )
 
 

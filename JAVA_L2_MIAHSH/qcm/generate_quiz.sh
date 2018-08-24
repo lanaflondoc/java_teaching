@@ -7,5 +7,5 @@ for filename in output/*.ipynb; do
 	jupyter nbconvert --execute  --inplace $filename
 	jupyter trust $filename
 done
-
+jupyter-notebook ./output/
 set +x 
